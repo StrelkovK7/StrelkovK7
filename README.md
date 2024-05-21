@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kirill
-- 🌱 I’m currently learning C++, Python
+- 🌱 I’m currently learning C++, Python, C#
 - 📫 My e-mail is `k7289218@gmail.com`
 - ⚡ Fun fact: ...
 
