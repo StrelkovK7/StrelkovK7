@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Kirill
-- 🌱 I’m currently learning C++, Python, C#
-- 📫 My e-mail is `k7289218@gmail.com`
-- ⚡ Fun fact: ...
+## Hi!
+I'm Kirill, current I'm learning Java 🍵 and C++ 🪨
+Current, I am already know Python 🐍
 
-<!---
-StrelkovK7/StrelkovK7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My English skills is B1. (Almost:))
+
+lol
